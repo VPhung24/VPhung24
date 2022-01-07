@@ -1,16 +1,14 @@
-### Hi there 👋
+# welcome to chaos
+ 
+hi hi! i'm a software engineer on instagram's transparency & controls (pre-reorg coined feed experience) team building features for feed, creation, and interaction
 
-<!--
-**VPhung24/VPhung24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## beware. there's a lot of bad old code on here. to show progression, i'm keeping it up
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+code from high school programs: 
+  - girls who code:
+    - summer immersion program (summer 2017)
+    - ios development campus course with deloitte scholarship (summer 2018)
+  - kode with klossy scholarship camp:
+    - web development level one (summer 2017)
+    - web development level two (summer 2018)
+  - google applied computer science intensive with android (jan 2019)
