@@ -1,6 +1,6 @@
 # welcome to chaos
  
-hi hi! i'm a software engineer on instagram's transparency & controls (pre-reorg coined feed experience) team building features for feed, creation, and interaction
+hi hi! i'm vivian, one of the founders of onDora. when im not changing the world, i'll be beep booping some side projects (wen time permits).  prev built @ instagram, apple, and eventbrite
 
 ## beware. there's a lot of bad old code on here. to show progression, i'm keeping it up
 
