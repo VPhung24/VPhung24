@@ -11,4 +11,4 @@ code from high school programs (all free and recommended):
   - [kode with klossy](https://www.kodewithklossy.com) scholarship camp:
     - [2017 summer] web development level one
     - [2018 summer] web development level two
-  - [2019 Jan] google applied computer science intensive with android
+  - [2019 jan] google applied computer science intensive with android
